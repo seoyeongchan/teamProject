@@ -11,6 +11,8 @@ public class Main {
 //
 //		handler.showList();
 
+		System.out.println("abc");
+		
 		int select,kor,eng,mat;
 		String name;
 		Scanner sc = new Scanner(System.in);
