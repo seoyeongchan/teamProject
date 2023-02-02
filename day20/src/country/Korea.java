@@ -8,5 +8,6 @@ public class Korea {
 	public void sayHello() {
 		System.out.println("¾È³ç");
 		System.out.println("³ªµµ¾È³ç");
+		System.out.println("µ¶µµ´Â ¿ì¸®¶¥");
 	}
 }
