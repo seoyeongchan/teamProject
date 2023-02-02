@@ -49,6 +49,8 @@ public class Ex01 {
 		System.out.println();
 		System.out.println("¿¿ æ»µ≈");
 		
+		System.out.println("¿¿ æ»µ≈§ª§ª§ª");
+		
 		
 		System.out.println("øœ∑·!!");
 		
