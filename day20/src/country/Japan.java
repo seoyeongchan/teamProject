@@ -2,12 +2,13 @@ package country;
 
 public class Japan {
 	
-	public String name = "ÀÏº»";
+	public String name = "ï¿½Ïºï¿½";
 	public int peopleSu = 67;
 	
 	public void sayHello() {
-		System.out.println("¾È³ç");
-		System.out.println("³ªµµ¾È³çÇÏ¼¼¿ä");
+		System.out.println("ï¿½È³ï¿½");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½È³ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½");
+		
 	}
 
 }
