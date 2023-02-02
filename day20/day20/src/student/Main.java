@@ -11,6 +11,10 @@ public class Main {
 //
 //		handler.showList();
 
+		System.out.println("abc");
+		System.out.println("¿À´Ã Àú³á ¸Óµå½Ê´Ï±î");
+		System.out.println("¹¹ µå½Ê´Ï±î");
+		
 		int select,kor,eng,mat;
 		String name;
 		Scanner sc = new Scanner(System.in);
