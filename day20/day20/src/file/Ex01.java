@@ -47,7 +47,7 @@ public class Ex01 {
 			System.out.println(str);
 		}
 		System.out.println();
-		
+		System.out.println("응 안돼");
 		
 		
 		System.out.println("완료!!");
